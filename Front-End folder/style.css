@@ -1,0 +1,29 @@
+
+body {
+    background-color: tan;
+  }
+
+  h1{
+      color: blueviolet;
+      text-align: center;
+      font-size: 72;
+  }
+  h2{
+      color: blueviolet;
+  }
+
+  #courselist{
+    background-color: white;
+  }
+
+  #courselist a:link, a:active{
+      color: black;
+  }
+  
+#courselist a:visited{
+    color: blueviolet;
+}
+
+span{
+    color: blue;
+}
